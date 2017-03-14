@@ -1,0 +1,6 @@
+.\CT-RAMP\Core\*.csv filter=lfs diff=lfs merge=lfs -text
+.\CT-RAMP\Core\FullyJointTourList.csv filter=lfs diff=lfs merge=lfs -text
+.\CT-RAMP\Core\HouseholdList.csv filter=lfs diff=lfs merge=lfs -text
+.\CT-RAMP\Core\PersonList.csv filter=lfs diff=lfs merge=lfs -text
+.\CT-RAMP\Core\TourList.csv filter=lfs diff=lfs merge=lfs -text
+.\CT-RAMP\Core\TripList.csv filter=lfs diff=lfs merge=lfs -text
